@@ -1,0 +1,9 @@
+
+
+hello=input("hello,this is technology store")
+what=input("what you interested in ?")
+price=input("these computer cost 500$, are you happy with the price ?")
+computer=500
+cash=float(input("how much money will you give me so i can give you change?"))
+summa=cash-computer
+print("your change",summa,"thank you for your purhase,come again!")
